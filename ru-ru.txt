@@ -66,7 +66,7 @@ language: Русский
   "License Panel" = "Панель лицензии"
   "Settings Panel" = "Панель настроек"
 
-"Modify" = "Модифицировать"
+"Modify" = "Модификация"
   "Notes" = "Ноты"
   "Insert Lyrics..." = "Вставить слова..."
   "Shift Lyrics to the Right" = "Сдвинуть слова вправо"
@@ -78,7 +78,7 @@ language: Русский
   "Simplify Parameters" = "Упростить параметры"
   "Create Anchor Points" = "Создать опорные точки"
   "Score Making" = "Создание партитуры"
-  "Snap to Grid" = "Привязываться к сетке"
+  "Snap to Grid" = "Привязать к сетке"
   "Smart Quantization..." = "Умное квантование..."
     "Smart Quantization" = "Умное квантование"
       "Snap the selected notes to places of rhythmic importance." = "Привязывать выделенные ноты к местам ритмической важности."
